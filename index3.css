@@ -1,0 +1,158 @@
+.login h2 {
+  /* text-align: center; */
+  margin-bottom: 34px;
+  margin-left: 50px;
+  font-family: arial;
+  font-weight: 550;
+  font-size: 20px;
+}
+
+.login {
+  margin-top: 100px;
+  margin-left: 35px;
+}
+
+.login input {
+  border: none;
+  border-bottom: 1px solid #ddd;
+  outline: none;
+  width: 80%;
+  margin-bottom: 25px;
+}
+
+span {
+}
+
+.login span {
+  /* margin-bottom: -4px; */
+  position: relative;
+  margin-bottom: -5px;
+  margin-left: 15px;
+  font-family: arial;
+  font-size: 14px;
+  top: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+button {
+  margin-top: 85px;
+  margin-bottom: 40px;
+  margin-left: 72px;
+  text-align: center;
+  padding: 16px 45px;
+  color: white;
+  background-color: #452b5b;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 19px #452b5b;
+}
+
+.pictures {
+  float: left;
+  overflow: hidden;
+  color: white;
+  width: 500px;
+  height: 100%;
+}
+
+section#loginform {
+  margin: auto;
+  width: 950px;
+  background-color: #452b5b;
+  overflow: hidden;
+  padding-top: 100px;
+  padding-left: 80px;
+  padding-bottom: 90px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 800px;
+  overflow: hidden;
+  border-radius: 5px;
+  box-sizing: border-box;
+  height: 485px;
+  margin-right: 39px;
+}
+
+.signup {
+  width: 300px;
+  float: left;
+  color: #452b5b;
+  background-color: white;
+  height: 100%;
+}
+
+.singupform p {
+  font-size: 14px;
+  /* font-family: arial; */
+  font-weight: 600;
+  margin-left: 10px;
+}
+.piccontent {
+  margin-left: 154px;
+  width: 186px;
+  margin-top: 235px;
+}
+
+.piccontent h1 {
+  letter-spacing: 1.4px;
+  text-align: center;
+  margin-bottom: -10px;
+  font-family: arial;
+  /* font-size: 30px; */
+  font-size: 33px;
+}
+
+.piccontent p {
+  font-size: 12px;
+  margin-right: -3px;
+  opacity: 0.7;
+  font-family: arial;
+  text-transform: uppercase;
+  transform: translateX(10px);
+}
+.pictures {
+  background: linear-gradient(#b53f6be3, #af43b1c2), url(lihazi.jpg);
+  background-position: center center;
+  background-size: cover;
+  box-sizing: border-box;
+}
+i.fas.fa-chevron-circle-left {
+  margin-right: 5px;
+}
+span.abid {
+  width: 18px;
+  height: 4px;
+  border-radius: 10px;
+  background-color: white;
+  margin-left: 206px;
+  margin-top: 117px;
+  display: block;
+  float: left;
+}
+span.abid1 {
+  width: 18px;
+  height: 4px;
+  border-radius: 10px;
+  background-color: #ffffff73;
+  margin-left: 12px;
+  margin-top: 117px;
+  display: block;
+  float: left;
+}
+span.abid2 {
+  width: 18px;
+  height: 4px;
+  border-radius: 10px;
+  background-color: #ffffff73;
+  margin-left: 12px;
+  margin-top: 117px;
+  display: block;
+  float: left;
+}
+body {
+  margin-top: 100px;
+}
